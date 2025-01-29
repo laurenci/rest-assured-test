@@ -7,4 +7,6 @@ public class Context {
     public static final FilePropertiesReader propertiesReader = new FilePropertiesReader(
             getResourcePath(System.getProperty("propertiesPath"))
     );
+
+    public static final JsonReader jsonReader = new JsonReader();
 }

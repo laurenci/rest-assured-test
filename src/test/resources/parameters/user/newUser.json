@@ -1,0 +1,23 @@
+{
+  "id": null,
+  "name": "John Doe",
+  "username": "JDoe",
+  "email": "johndoe@example.com",
+  "address": {
+    "street": "Maple Street",
+    "suite": "Apt. 123",
+    "city": "Springfield",
+    "zipcode": "54321-6789",
+    "geo": {
+      "lat": "40.7128",
+      "lng": "-74.0060"
+    }
+  },
+  "phone": "1-555-123-4567",
+  "website": "johndoe.com",
+  "company": {
+    "name": "Acme Corp",
+    "catchPhrase": "Innovative solutions for modern businesses",
+    "bs": "streamline robust infrastructures"
+  }
+}
